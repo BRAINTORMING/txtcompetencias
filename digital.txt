@@ -1,0 +1,757 @@
+Marco europeo de competencias digitales DIGCOMP
+
+DigComp es un marco detallado para el desarrollo de la competencia digital de los ciudadanos en Europa. El marco proporciona la descripción detallada de todas las habilidades necesarias para ser competente en entornos digitales y las describe en términos de conocimientos, habilidades y actitudes y aporta los niveles dentro de cada competencia.
+Una edición ikanos de la primera y la segunda versión del marco DIGCOMP en castellano.
+La versión original de Digcomp 1, en inglés:
+La versión original de Digcomp 2.1, en inglés:
+Guía de usuario ‘DigComp en acción‘,en inglés: ejemplos de cómo se utiliza en toda Europa el marco DigComp para apoyar el desarrollo y la comprensión de las habilidades digitales. La guía contiene más de 30 ejemplos para inspirar y habilitar la utilización de DigComp.
+
+
+Información:
+
+¿Qué es DigComp?
+DigComp es un marco de referencia que describe las competencias digitales en cinco áreas clave:
+Información y alfabetización informacional
+
+
+Comunicación y colaboración
+
+
+Creación de contenido digital
+
+
+Seguridad
+
+
+Resolución de problemas
+
+
+Cada una de estas áreas está dividida en varias competencias específicas, y el marco ofrece descriptores de niveles de competencia, desde básico hasta avanzado.
+
+Documentos oficiales de DigComp
+El documento oficial y más relevante es:
+"The Digital Competence Framework for Citizens" (DigComp 2.1, 2017)
+
+
+Este documento es publicado por el Joint Research Centre (JRC) de la Comisión Europea y puede encontrarse en:
+DigComp 2.1 - Documento oficial PDF (European Commission, JRC)
+
+¿Qué encontrarás en el documento?
+La definición y estructura de las competencias digitales.
+
+
+Descripciones detalladas de cada competencia.
+
+
+Niveles de competencia para cada habilidad.
+
+
+Ejemplos de uso y aplicaciones prácticas.
+
+
+Guías para la implementación en educación, empleo y desarrollo personal.
+
+
+
+
+
+"The Digital Competence Framework for Citizens" (DigComp 2.1, 2017)
+
+
+
+DigComp 2.1 - El Marco de Competencia Digital para los Ciudadanos
+Con ocho niveles de competencia y ejemplos de uso
+Autores: Stephanie Carretero, Riina Vuorikari y Yves Punie Centro Común de Investigación (JRC) EUR 28558 EN
+Este documento es un informe de Ciencia para la Política del Centro Común de Investigación (JRC), el servicio de ciencia y conocimiento de la Comisión Europea. Su objetivo es proporcionar apoyo científico basado en la evidencia al proceso de formulación de políticas europeas. El resultado científico expresado no implica una posición política de la Comisión Europea. Ni la Comisión Europea ni ninguna persona que actúe en nombre de la Comisión es responsable del uso que pueda hacerse de esta publicación.
+Agradecimiento
+
+Tabla de Contenidos
+Prefacio
+Introducción
+Objetivos del DigComp 2.1
+La Estructura del DigComp 2.1 4.1. Áreas de competencia y competencias 4.2. Niveles de competencia 4.3. Ejemplos de uso 4.4. Estructura de código 4.5. Terminología clave
+Los Niveles de Competencia: DigComp 2.1 5.1. Alfabetización de información y datos 1.1. Navegar, buscar y filtrar datos, información y contenido digital 1.2. Evaluar datos, información y contenido digital 1.3. Gestionar datos, información y contenido digital 5.2. Comunicación y colaboración 2.1. Interactuar a través de tecnologías digitales 2.2. Compartir a través de tecnologías digitales 2.3. Participar en la ciudadanía a través de tecnologías digitales 2.4. Colaborar a través de tecnologías digitales 2.5. Netiqueta 2.6. Gestionar la identidad digital 5.3. Creación de contenido digital 3.1. Desarrollar contenido digital 3.2. Integrar y reelaborar contenido digital 3.3. Derechos de autor y licencias 3.4. Programación 5.4. Seguridad 4.1. Proteger dispositivos 4.2. Proteger datos personales y privacidad 4.3. Proteger la salud y el bienestar 4.4. Proteger el medio ambiente 5.5. Resolución de problemas 5.1. Resolver problemas técnicos 5.2. Identificar necesidades y respuestas tecnológicas 5.3. Usar creativamente las tecnologías digitales 5.4. Identificar brechas de competencia digital
+Aplicaciones de DigComp
+Conclusiones
+Referencias Anexo I: Metodología Anexo II: Ejemplos de uso
+1. Prefacio
+Las tecnologías digitales están transformando rápidamente nuestro mundo, y cada vez son más omnipresentes en todos los aspectos de nuestra vida personal y profesional. Las competencias digitales, entendidas como el conjunto de conocimientos, habilidades y actitudes que se requieren para emplear las tecnologías digitales de forma creativa, crítica y segura para alcanzar los objetivos relacionados con el trabajo, el aprendizaje, el ocio, la inclusión y la participación en la sociedad, son clave para el desarrollo personal, la empleabilidad, la inclusión social y una ciudadanía activa. La Comisión Europea ha desarrollado el Marco de Competencia Digital para los Ciudadanos (DigComp), una herramienta ampliamente utilizada para mejorar la competencia digital en Europa.
+La primera versión de DigComp se publicó en 2013 y desde entonces ha servido como referencia científica para la formulación de políticas y como una herramienta práctica para iniciativas a nivel de la UE, de los Estados miembros y regionales. DigComp ha sido adoptado por muchos Estados miembros de la UE, organizaciones internacionales y partes interesadas de la sociedad civil y la industria para desarrollar marcos de competencia digital, implementar programas de formación, evaluar habilidades, certificar y desarrollar planes de estudio.
+Una versión actualizada de DigComp, DigComp 2.0, se publicó en 2016 y contenía actualizaciones conceptuales de las competencias principales. En esta versión, DigComp 2.1, hemos revisado los niveles de competencia y añadido ejemplos para facilitar la comprensión y el uso del marco. Basándonos en la experiencia adquirida en los últimos tres años desde la publicación de DigComp 1.0, DigComp 2.1 ofrece ocho niveles de competencia para cada una de las 21 competencias de DigComp 2.0. Estos niveles permiten una progresión más detallada a la hora de aprender, enseñar y evaluar las competencias digitales.
+DigComp 2.1 proporciona un lenguaje y un concepto comunes que pueden ayudar a los ciudadanos, a los proveedores de educación y formación, a los proveedores de empleo y a los responsables políticos a describir y aplicar las competencias digitales. Además, DigComp 2.1 se publicó en formato de datos de código abierto, lo que permite que sea reutilizado por terceros de forma automatizada.
+Esperamos que el DigComp 2.1 siga siendo un punto de referencia para un uso eficaz de las tecnologías digitales por parte de todos los ciudadanos.
+Yves Punie Jefe de Unidad, Centro de Estudios de Prospectiva Centro Común de Investigación Comisión Europea
+2. Introducción
+La Comisión Europea ha fomentado y apoyado la definición de competencias digitales durante más de una década. El marco de Competencia Digital (DigComp) para los ciudadanos ha sido ampliamente utilizado desde su primera publicación en 2013, como lo demuestran el número de visitantes a la página web del informe, las citas en Google Scholar, el número de noticias en las que se menciona y los casos de uso presentados por la red DigComp.
+DigComp es uno de los marcos de referencia respaldados por la UE que se han desarrollado para describir las competencias básicas en áreas específicas. Estos incluyen el Marco Europeo de Cualificaciones (EQF), el Marco Europeo de Referencia de Calidad para la Educación y Formación Profesional (EQAVET) y los Marcos de Competencias Lingüísticas del Consejo de Europa. Se han desarrollado marcos de referencia para una variedad de competencias, como el marco de emprendimiento (EntreComp) o el marco de aprendizaje permanente (KeyComp). También hay iniciativas de investigación para marcos relacionados con la creatividad.
+Aunque el concepto de "competencias digitales" se ha debatido ampliamente, todavía existe una necesidad clara de definir lo que significan. Como resultado, las acciones políticas en el ámbito de las competencias digitales a menudo carecen de una base de referencia común. La mayoría de los Estados miembros carecen de una política definida sobre las competencias digitales, o no la aplican de forma sistemática. La falta de un lenguaje común obstaculiza el desarrollo de políticas holísticas sobre las competencias digitales y la coherencia entre las iniciativas de educación y formación, empleabilidad y participación social. Esto conduce a una falta de datos comparables sobre los niveles de competencia digital en toda la UE, así como a una falta de herramientas para evaluar las competencias digitales.
+DigComp aborda esta necesidad proporcionando un marco común para el desarrollo de la competencia digital en Europa. DigComp 1.0 (Ferrari, 2013) propuso un marco basado en 21 competencias específicas organizadas en cinco áreas clave. En 2016, se publicó una actualización conceptual, DigComp 2.0 (Vuorikari et al., 2016), que definió las competencias principales en un lenguaje más neutro en cuanto a la tecnología y más genérico. Los títulos de las competencias se refrasearon y se actualizó la definición de las cinco áreas de competencia.
+El objetivo de esta versión de DigComp 2.1 es presentar ocho niveles de competencia (Fundacional 1-2, Intermedio 1-2, Avanzado 1-2, Altamente Especializado 1-2) para cada una de las 21 competencias y proporcionar una lista de ejemplos de uso para cada una de las 21 competencias. Los niveles de competencia pretenden ser un estímulo para que los responsables políticos y los operadores describan con mayor detalle y concreción los niveles de dominio de los ciudadanos en relación con las competencias digitales y, por lo tanto, facilitar su adaptación a fines como el desarrollo de currículos, la impartición de formación y el mapeo de competencias para la empleabilidad.
+3. Objetivos del DigComp 2.1
+Los principales objetivos de DigComp 2.1 son:
+Validar y detallar los niveles de competencia de DigComp 2.0. DigComp 2.0 (Vuorikari et al., 2016) se publicó como un concepto actualizado que definía las competencias principales en un lenguaje más neutro en cuanto a la tecnología y más genérico. Sin embargo, no incluía los descriptores de los niveles de competencia ni ejemplos de uso, que son esenciales para su aplicación práctica. Esta versión de DigComp 2.1 completa las definiciones de los niveles de competencia con la especificación de los ocho niveles de competencia por cada competencia, además de incluir ejemplos de uso para cada una de las 21 competencias. Estos niveles están basados en el Modelo de Nivel de Competencia de los Países Bajos (NLQF) para competencias (NLQF, 2011) y en los niveles de dominio del Marco Común Europeo de Referencia para las Lenguas (MCERL) (Consejo de Europa, 2001).
+
+
+Ofrecer ejemplos de uso que ilustren cada competencia. Se proporcionan ejemplos de uso para cada una de las 21 competencias. Estos ejemplos ilustran cómo se aplican las competencias en contextos prácticos y pueden ayudar a los usuarios a comprender mejor lo que implica cada competencia.
+
+
+Proporcionar el marco en formato de datos de código abierto. El marco se proporciona en formato de datos de código abierto, lo que permite su fácil integración y reutilización por parte de terceros.
+
+
+En resumen, DigComp 2.1 tiene como objetivo actualizar y enriquecer el marco DigComp, haciéndolo más práctico y accesible para su uso en una amplia gama de contextos, desde la educación y la formación hasta la empleabilidad y la participación social.
+4. La Estructura del DigComp 2.1
+DigComp 2.1 mantiene la estructura de DigComp 2.0, que se basa en cinco áreas de competencia, cada una con un número específico de competencias. Además, DigComp 2.1 introduce un sistema de niveles de competencia para cada una de las 21 competencias, así como ejemplos de uso para ilustrar su aplicación práctica.
+4.1. Áreas de competencia y competencias
+El DigComp 2.1 está compuesto por 5 áreas de competencia:
+Alfabetización de información y datos: navegar, buscar y filtrar datos, información y contenido digital; evaluar datos, información y contenido digital; gestionar datos, información y contenido digital.
+Comunicación y colaboración: interactuar a través de tecnologías digitales; compartir a través de tecnologías digitales; participar en la ciudadanía a través de tecnologías digitales; colaborar a través de tecnologías digitales; netiqueta; gestionar la identidad digital.
+Creación de contenido digital: desarrollar contenido digital; integrar y reelaborar contenido digital; derechos de autor y licencias; programación.
+Seguridad: proteger dispositivos; proteger datos personales y privacidad; proteger la salud y el bienestar; proteger el medio ambiente.
+Resolución de problemas: resolver problemas técnicos; identificar necesidades y respuestas tecnológicas; usar creativamente las tecnologías digitales; identificar brechas de competencia digital.
+Cada área de competencia contiene un conjunto de competencias específicas, lo que suma un total de 21 competencias. La figura a continuación ilustra la estructura de las áreas de competencia y las competencias asociadas.
+[Insertar imagen de la Figura 1: Áreas de competencia y competencias de DigComp 2.1 - La imagen del PDF muestra las 5 áreas con sus respectivas competencias listadas.]
+4.2. Niveles de competencia
+DigComp 2.1 introduce ocho niveles de competencia para cada una de las 21 competencias. Estos niveles se agrupan en cuatro etapas de progresión:
+Fundacional (Niveles 1 y 2): Los individuos poseen los conocimientos y habilidades básicos para realizar tareas digitales simples, con orientación.
+Intermedio (Niveles 3 y 4): Los individuos pueden realizar tareas digitales de manera más independiente y resolver problemas comunes.
+Avanzado (Niveles 5 y 6): Los individuos pueden resolver problemas complejos y usar las tecnologías digitales de manera creativa y crítica.
+Altamente Especializado (Niveles 7 y 8): Los individuos pueden abordar problemas altamente complejos, innovar y desarrollar nuevas soluciones digitales.
+Cada nivel de competencia se describe utilizando verbos de acción, objetos y condiciones para indicar lo que el individuo es capaz de hacer en relación con la competencia. Esta estructura se inspira en el NLQF para competencias y en el MCERL para el dominio de idiomas.
+4.3. Ejemplos de uso
+Para cada una de las 21 competencias, se proporcionan ejemplos de uso. Estos ejemplos ilustran cómo se aplican las competencias en situaciones prácticas y cotidianas. Los ejemplos de uso están diseñados para ser claros y relevantes, ayudando a los usuarios a comprender el significado y la aplicación de cada competencia en diferentes contextos.
+4.4. Estructura de código
+Cada competencia en DigComp 2.1 tiene una estructura de código que permite una fácil referencia. Por ejemplo, "1.1. Navegar, buscar y filtrar datos, información y contenido digital" indica que es la primera competencia de la primera área.
+4.5. Terminología clave
+En el marco DigComp 2.1, se utilizan ciertos términos clave con significados específicos:
+Competencia: Se refiere a una combinación de conocimientos, habilidades y actitudes que se requieren para realizar una tarea o resolver un problema en un contexto determinado.
+Área de competencia: Una categoría general que agrupa competencias relacionadas.
+Nivel de competencia: Un descriptor del grado de dominio de una competencia.
+Ejemplo de uso: Una ilustración práctica de cómo se aplica una competencia en una situación real.
+Alfabetización digital: La capacidad de usar las tecnologías digitales para acceder, gestionar, integrar, evaluar, crear y comunicar información, con el fin de participar en actividades de aprendizaje a lo largo de la vida.
+5. Los Niveles de Competencia: DigComp 2.1
+Esta sección detalla cada una de las 21 competencias de DigComp 2.1, proporcionando la definición de la competencia y sus ocho niveles de competencia asociados, junto con ejemplos de uso.
+5.1. Área 1: Alfabetización de información y datos
+Definición del área: Articular las necesidades de información, localizar y recuperar datos, información y contenido digital. Evaluar la relevancia y fiabilidad de las fuentes de datos, información y contenido digital. Gestionar, almacenar y organizar datos, información y contenido digital.
+1.1. Navegar, buscar y filtrar datos, información y contenido digital
+Definición: Navegar, buscar y filtrar datos, información y contenido digital. Acceder a los datos, la información y el contenido digital, y navegar por ellos. Definir y gestionar entornos de almacenamiento digital. Personalizar entornos digitales.
+Nivel Fundacional 1 (F1): Identificar algunos datos, información y contenido digital sencillos con orientación. Saber cómo acceder a datos, información y contenido digital simples. Reconocer que los datos, la información y el contenido digital necesitan ser almacenados y organizados.
+Ejemplo de uso: Soy capaz de buscar vídeos en YouTube sobre un tema específico siguiendo las instrucciones de mi profesor.
+Nivel Fundacional 2 (F2): Utilizar criterios simples para navegar, buscar y filtrar datos, información y contenido digital. Saber cómo acceder y navegar por datos, información y contenido digital. Organizar y almacenar datos, información y contenido digital básicos con orientación.
+Ejemplo de uso: Soy capaz de buscar información en Internet sobre un tema de mi interés, utilizando un motor de búsqueda y algunas palabras clave.
+Nivel Intermedio 3 (I3): Adaptar la estrategia de búsqueda para localizar datos, información y contenido digital. Evaluar la pertinencia de las fuentes para satisfacer sus propias necesidades. Organizar y almacenar datos, información y contenido digital de manera coherente.
+Ejemplo de uso: Soy capaz de buscar y encontrar sitios web con información fiable sobre un tema específico, y sé cómo guardar mis marcadores en el navegador.
+Nivel Intermedio 4 (I4): Evaluar la pertinencia de las fuentes para satisfacer necesidades complejas. Gestionar y organizar datos, información y contenido digital estructurados.
+Ejemplo de uso: Soy capaz de buscar y encontrar artículos científicos en bases de datos académicas, y sé cómo organizar mis referencias bibliográficas.
+Nivel Avanzado 5 (A5): Evaluar la pertinencia de múltiples fuentes de datos, información y contenido digital para satisfacer necesidades cambiantes. Organizar y almacenar datos, información y contenido digital de manera que se facilite la colaboración y la co-creación.
+Ejemplo de uso: Soy capaz de realizar búsquedas avanzadas en múltiples bases de datos y repositorios, y organizar los resultados para compartirlos y trabajarlos en equipo.
+Nivel Avanzado 6 (A6): Resolver problemas complejos relacionados con la navegación, búsqueda y filtrado de datos, información y contenido digital. Gestionar y organizar datos, información y contenido digital complejos de manera que se optimice su accesibilidad y reutilización.
+Ejemplo de uso: Soy capaz de configurar sistemas de gestión de contenido para optimizar el acceso y la reutilización de la información en mi organización.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de soluciones innovadoras para gestionar y organizar grandes volúmenes de datos, información y contenido digital.
+Ejemplo de uso: Diseñar e implementar un sistema de indexación y recuperación de información a gran escala para una biblioteca digital.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la gestión, organización y acceso a datos, información y contenido digital complejos y de gran volumen.
+Ejemplo de uso: Desarrollar un nuevo algoritmo de búsqueda semántica para mejorar la recuperación de información en entornos de big data.
+1.2. Evaluar datos, información y contenido digital
+Definición: Analizar, comparar y evaluar críticamente la credibilidad y fiabilidad de las fuentes de datos, información y contenido digital. Analizar, interpretar y evaluar críticamente los datos, la información y el contenido digital.
+Nivel Fundacional 1 (F1): Identificar un propósito claro para la evaluación de datos, información y contenido digital. Reconocer que los datos, la información y el contenido digital pueden ser inexactos o sesgados.
+Ejemplo de uso: Soy capaz de reconocer si una noticia en redes sociales es un "engaño" simple si está claramente marcada.
+Nivel Fundacional 2 (F2): Identificar algunos criterios para evaluar la credibilidad y fiabilidad de fuentes simples de datos, información y contenido digital.
+Ejemplo de uso: Puedo identificar si una página web es un sitio de noticias fiable si tiene una reputación conocida.
+Nivel Intermedio 3 (I3): Evaluar la credibilidad y fiabilidad de los datos, la información y el contenido digital, así como de sus fuentes.
+Ejemplo de uso: Soy capaz de comparar varias fuentes de información en línea para determinar si coinciden en los hechos.
+Nivel Intermedio 4 (I4): Evaluar la credibilidad y fiabilidad de múltiples fuentes de datos, información y contenido digital.
+Ejemplo de uso: Soy capaz de evaluar la credibilidad de una reseña de producto en línea basándome en su contenido y en la reputación del reseñador.
+Nivel Avanzado 5 (A5): Evaluar la credibilidad y fiabilidad de conjuntos complejos de datos, información y contenido digital.
+Ejemplo de uso: Soy capaz de analizar un informe de investigación en línea y determinar si los datos presentados son fiables y bien fundamentados.
+Nivel Avanzado 6 (A6): Resolver problemas complejos relacionados con la evaluación de datos, información y contenido digital.
+Ejemplo de uso: Soy capaz de identificar y evaluar información falsa o engañosa en un contexto de noticias en línea y explicar por qué es engañosa.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de metodologías y herramientas innovadoras para la evaluación de datos, información y contenido digital.
+Ejemplo de uso: Desarrollar un sistema automatizado para detectar noticias falsas en plataformas de redes sociales.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la evaluación crítica de datos, información y contenido digital en entornos complejos y cambiantes.
+Ejemplo de uso: Crear un marco de evaluación para la fiabilidad de la información generada por IA.
+1.3. Gestionar datos, información y contenido digital
+Definición: Organizar, almacenar y recuperar datos, información y contenido digital. Gestionar y procesar datos, información y contenido digital para que sean accesibles y reutilizables.
+Nivel Fundacional 1 (F1): Guardar y organizar datos, información y contenido digital simples en un lugar predefinido.
+Ejemplo de uso: Soy capaz de guardar un archivo en una carpeta específica en mi computadora.
+Nivel Fundacional 2 (F2): Guardar y organizar datos, información y contenido digital con una estructura básica.
+Ejemplo de uso: Soy capaz de crear carpetas y subcarpetas para organizar mis documentos y fotos.
+Nivel Intermedio 3 (I3): Gestionar y organizar datos, información y contenido digital de manera coherente.
+Ejemplo de uso: Soy capaz de utilizar etiquetas y categorías para organizar mis correos electrónicos y facilitar su búsqueda.
+Nivel Intermedio 4 (I4): Gestionar y organizar datos, información y contenido digital estructurados.
+Ejemplo de uso: Soy capaz de utilizar un sistema de gestión de documentos en línea para organizar y compartir archivos con mi equipo de trabajo.
+Nivel Avanzado 5 (A5): Gestionar y organizar datos, información y contenido digital de manera que se facilite la colaboración y la co-creación.
+Ejemplo de uso: Soy capaz de configurar un repositorio compartido en la nube y establecer permisos de acceso para diferentes usuarios.
+Nivel Avanzado 6 (A6): Gestionar y organizar datos, información y contenido digital complejos de manera que se optimice su accesibilidad y reutilización.
+Ejemplo de uso: Soy capaz de diseñar un sistema de gestión de bases de datos para optimizar la recuperación y el análisis de grandes volúmenes de información.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de soluciones innovadoras para gestionar y organizar grandes volúmenes de datos, información y contenido digital.
+Ejemplo de uso: Diseñar e implementar una arquitectura de datos para un proyecto de big data.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la gestión, organización y acceso a datos, información y contenido digital complejos y de gran volumen.
+Ejemplo de uso: Crear un nuevo modelo de datos para optimizar la interoperabilidad entre diferentes sistemas de información.
+5.2. Área 2: Comunicación y colaboración
+Definición del área: Interactuar, comunicarse y colaborar a través de tecnologías digitales mientras se es consciente de la diversidad cultural y generacional. Participar en la sociedad a través de servicios digitales públicos y privados. Gestionar la identidad digital.
+2.1. Interactuar a través de tecnologías digitales
+Definición: Interactuar a través de una variedad de tecnologías digitales y comprender las formas adecuadas de comunicación para un contexto dado.
+Nivel Fundacional 1 (F1): Utilizar algunas herramientas de comunicación digital sencillas con orientación.
+Ejemplo de uso: Puedo enviar un mensaje de texto simple a un amigo con la ayuda de mis padres.
+Nivel Fundacional 2 (F2): Interactuar a través de herramientas de comunicación digital básicas.
+Ejemplo de uso: Soy capaz de enviar y recibir correos electrónicos básicos.
+Nivel Intermedio 3 (I3): Adaptar las herramientas de comunicación digital a las necesidades del contexto.
+Ejemplo de uso: Soy capaz de elegir entre un correo electrónico, un mensaje instantáneo o una videollamada, dependiendo de la urgencia y el tipo de comunicación.
+Nivel Intermedio 4 (I4): Usar y adaptar las herramientas de comunicación digital a las necesidades del contexto.
+Ejemplo de uso: Soy capaz de usar plataformas de videoconferencia para reuniones de trabajo y ajustar la configuración según las necesidades de la audiencia.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la interacción a través de tecnologías digitales.
+Ejemplo de uso: Soy capaz de gestionar una conversación en línea con múltiples participantes y diferentes puntos de vista, y mantenerla enfocada.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la interacción a través de tecnologías digitales.
+Ejemplo de uso: Soy capaz de diseñar y facilitar un taller en línea interactivo utilizando diversas herramientas digitales de colaboración.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de estrategias y herramientas para la interacción avanzada a través de tecnologías digitales.
+Ejemplo de uso: Diseñar una plataforma de comunicación para una comunidad en línea diversa y global.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la interacción digital que aborden desafíos complejos y promuevan la inclusión.
+Ejemplo de uso: Crear un protocolo de comunicación digital para situaciones de crisis que permita la coordinación efectiva entre múltiples agencias.
+2.2. Compartir a través de tecnologías digitales
+Definición: Compartir datos, información y contenido digital con otros a través de herramientas digitales. Ser consciente de las licencias y los derechos de autor al compartir datos, información y contenido digital.
+Nivel Fundacional 1 (F1): Compartir datos, información y contenido digital simples con orientación.
+Ejemplo de uso: Soy capaz de compartir una foto con un amigo a través de una aplicación de mensajería, con la ayuda de mis padres.
+Nivel Fundacional 2 (F2): Compartir datos, información y contenido digital con ajustes básicos de privacidad.
+Ejemplo de uso: Soy capaz de compartir un documento en línea con un compañero de clase, entendiendo que pueden verlo pero no editarlo.
+Nivel Intermedio 3 (I3): Compartir datos, información y contenido digital con otros, siendo consciente de las licencias y los derechos de autor.
+Ejemplo de uso: Soy capaz de compartir un enlace a un artículo en línea en mis redes sociales, citando la fuente original.
+Nivel Intermedio 4 (I4): Compartir datos, información y contenido digital con otros, y comprender las implicaciones de las licencias y los derechos de autor.
+Ejemplo de uso: Soy capaz de compartir una imagen en un blog personal, asegurándome de que tiene una licencia Creative Commons adecuada.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con el intercambio de datos, información y contenido digital, considerando las licencias y los derechos de autor.
+Ejemplo de uso: Soy capaz de determinar la licencia adecuada para un software de código abierto que deseo compartir con la comunidad.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para el intercambio de datos, información y contenido digital, considerando las licencias y los derechos de autor.
+Ejemplo de uso: Soy capaz de desarrollar un sistema para compartir recursos educativos en línea, asegurando el cumplimiento de las licencias.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y estrategias para el intercambio responsable de datos, información y contenido digital a gran escala.
+Ejemplo de uso: Definir la política de licencias y acceso para un repositorio de datos de investigación de una institución.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos modelos y herramientas para el intercambio de datos, información y contenido digital que promuevan la apertura y la colaboración responsable.
+Ejemplo de uso: Crear una nueva plataforma de intercambio de conocimiento basada en principios de código abierto y licencias flexibles.
+2.3. Participar en la ciudadanía a través de tecnologías digitales
+Definición: Participar en la sociedad a través de servicios digitales públicos y privados. Buscar oportunidades de autoempoderamiento y ciudadanía participativa a través de tecnologías digitales.
+Nivel Fundacional 1 (F1): Identificar algunos servicios digitales públicos y privados simples.
+Ejemplo de uso: Sé que puedo usar mi teléfono para llamar a un taxi o para pedir comida a domicilio.
+Nivel Fundacional 2 (F2): Participar en algunos servicios digitales públicos y privados básicos con orientación.
+Ejemplo de uso: Soy capaz de buscar información sobre el horario de autobuses en una aplicación móvil.
+Nivel Intermedio 3 (I3): Participar en servicios digitales públicos y privados.
+Ejemplo de uso: Soy capaz de usar el portal en línea del ayuntamiento para solicitar un certificado o pagar impuestos.
+Nivel Intermedio 4 (I4): Participar activamente en la ciudadanía a través de servicios digitales públicos y privados.
+Ejemplo de uso: Soy capaz de firmar una petición en línea o participar en una consulta pública digital.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la participación en la ciudadanía a través de tecnologías digitales.
+Ejemplo de uso: Soy capaz de identificar y reportar problemas en los servicios digitales públicos, o de proponer mejoras.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la participación en la ciudadanía a través de tecnologías digitales.
+Ejemplo de uso: Soy capaz de organizar y moderar un debate en línea sobre un tema de interés público, utilizando herramientas de participación digital.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de plataformas y estrategias para fomentar la ciudadanía digital activa y la participación cívica.
+Ejemplo de uso: Diseñar una aplicación móvil para que los ciudadanos puedan reportar problemas urbanos y hacer seguimiento de las acciones municipales.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la participación en la ciudadanía a través de tecnologías digitales que promuevan la inclusión y la transformación social.
+Ejemplo de uso: Crear un modelo de votación electrónica seguro y accesible para elecciones locales.
+2.4. Colaborar a través de tecnologías digitales
+Definición: Usar tecnologías y herramientas digitales para procesos colaborativos, y para la co-creación y la construcción de recursos y conocimiento.
+Nivel Fundacional 1 (F1): Usar algunas herramientas de colaboración digital sencillas con orientación.
+Ejemplo de uso: Soy capaz de participar en una llamada de grupo en una aplicación de mensajería con la ayuda de mis padres.
+Nivel Fundacional 2 (F2): Colaborar en línea con un grupo pequeño, con orientación.
+Ejemplo de uso: Soy capaz de editar un documento compartido en línea con un compañero de clase bajo la supervisión del profesor.
+Nivel Intermedio 3 (I3): Colaborar a través de tecnologías digitales, contribuyendo a recursos y conocimiento.
+Ejemplo de uso: Soy capaz de participar en un proyecto de grupo en línea, compartiendo documentos y comunicándome con mis compañeros.
+Nivel Intermedio 4 (I4): Colaborar activamente a través de tecnologías digitales, co-creando recursos y conocimiento.
+Ejemplo de uso: Soy capaz de utilizar herramientas de colaboración en línea para desarrollar una presentación conjunta con mi equipo de trabajo.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la colaboración a través de tecnologías digitales.
+Ejemplo de uso: Soy capaz de mediar en un conflicto en un entorno de colaboración en línea y encontrar una solución constructiva.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la colaboración a través de tecnologías digitales.
+Ejemplo de uso: Soy capaz de diseñar un flujo de trabajo colaborativo para un equipo distribuido geográficamente utilizando herramientas digitales.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de entornos y estrategias para la colaboración digital a gran escala y la construcción de conocimiento colectivo.
+Ejemplo de uso: Diseñar una wiki colaborativa para una organización con múltiples departamentos.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la colaboración digital que promuevan la innovación, la diversidad y la inclusión en la construcción de conocimiento.
+Ejemplo de uso: Crear un marco para la cocreación de contenido en línea que incorpore principios de diseño inclusivo.
+2.5. Netiqueta
+Definición: Conocer las normas de conducta y el comportamiento en los entornos digitales. Adaptar las estrategias de comunicación a la audiencia y al contexto.
+Nivel Fundacional 1 (F1): Identificar algunas normas de netiqueta básicas con orientación.
+Ejemplo de uso: Sé que debo ser educado al escribir mensajes de texto, sin usar mayúsculas todo el tiempo.
+Nivel Fundacional 2 (F2): Demostrar un comportamiento básico de netiqueta.
+Ejemplo de uso: Soy capaz de escribir un correo electrónico formal con un saludo y una despedida adecuados.
+Nivel Intermedio 3 (I3): Adaptar el comportamiento en línea a las normas de netiqueta y al contexto.
+Ejemplo de uso: Soy capaz de participar en un foro de discusión en línea, respetando las opiniones de los demás y evitando el lenguaje ofensivo.
+Nivel Intermedio 4 (I4): Adaptar las estrategias de comunicación y el comportamiento en línea a la audiencia y al contexto.
+Ejemplo de uso: Soy capaz de elegir el tono adecuado para un mensaje de correo electrónico dependiendo de si me dirijo a un colega, un supervisor o un cliente.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la netiqueta y el comportamiento en línea.
+Ejemplo de uso: Soy capaz de mediar en una discusión en línea acalorada y redirigirla hacia una conversación constructiva.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la netiqueta y el comportamiento en línea.
+Ejemplo de uso: Soy capaz de desarrollar un código de conducta para una comunidad en línea que fomente el respeto y la comunicación efectiva.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y estrategias para promover la netiqueta y el comportamiento en línea responsable en grandes organizaciones o comunidades.
+Ejemplo de uso: Crear un programa de formación en netiqueta para empleados de una empresa multinacional.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la netiqueta que aborden desafíos éticos complejos y promuevan una cultura digital saludable.
+Ejemplo de uso: Investigar y proponer soluciones para combatir el ciberacoso y el discurso de odio en línea.
+2.6. Gestionar la identidad digital
+Definición: Crear y gestionar una o varias identidades digitales, ser capaz de proteger la reputación digital. Comprender los datos que se generan a través de las interacciones en línea.
+Nivel Fundacional 1 (F1): Identificar algunos elementos básicos de su identidad digital con orientación.
+Ejemplo de uso: Sé que mi nombre de usuario y mi contraseña son parte de mi identidad en línea.
+Nivel Fundacional 2 (F2): Crear y gestionar una identidad digital simple.
+Ejemplo de uso: Soy capaz de crear un perfil en una red social y configurar opciones básicas de privacidad.
+Nivel Intermedio 3 (I3): Crear y gestionar una o varias identidades digitales.
+Ejemplo de uso: Soy capaz de mantener perfiles separados en redes sociales para mi vida personal y profesional.
+Nivel Intermedio 4 (I4): Crear y gestionar una o varias identidades digitales y proteger la reputación digital.
+Ejemplo de uso: Soy capaz de monitorear mi nombre en línea y eliminar información que pueda dañar mi reputación.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la gestión de la identidad digital y la reputación.
+Ejemplo de uso: Soy capaz de abordar un caso de suplantación de identidad en línea y tomar medidas para proteger mi identidad.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la gestión de la identidad digital y la reputación.
+Ejemplo de uso: Soy capaz de diseñar una estrategia de gestión de marca personal en línea para un profesional.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y herramientas para la gestión de la identidad digital y la reputación a nivel organizacional o social.
+Ejemplo de uso: Desarrollar un sistema de verificación de identidad digital para transacciones seguras en línea.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la gestión de la identidad digital que aborden desafíos de privacidad y seguridad complejos y promuevan la confianza en el entorno digital.
+Ejemplo de uso: Investigar y proponer soluciones para la soberanía de los datos personales en la era digital.
+5.3. Área 3: Creación de contenido digital
+Definición del área: Crear y editar contenido digital en diferentes formatos, expresar creativamente ideas y medios. Integrar y reelaborar conocimiento y contenido previos. Comprender cómo aplicar los derechos de autor y las licencias. Saber dar instrucciones comprensibles a un sistema informático.
+3.1. Desarrollar contenido digital
+Definición: Crear y editar contenido digital en diferentes formatos, expresar creativamente ideas y medios.
+Nivel Fundacional 1 (F1): Crear y editar contenido digital simple con orientación.
+Ejemplo de uso: Soy capaz de escribir un texto simple en un procesador de texto con la ayuda de mi profesor.
+Nivel Fundacional 2 (F2): Crear y editar contenido digital básico en diferentes formatos.
+Ejemplo de uso: Soy capaz de crear una presentación simple con diapositivas y texto básico.
+Nivel Intermedio 3 (I3): Crear y editar contenido digital en diferentes formatos y medios.
+Ejemplo de uso: Soy capaz de crear un póster digital utilizando software de diseño gráfico básico.
+Nivel Intermedio 4 (I4): Crear y editar contenido digital en diferentes formatos y medios, expresando creativamente ideas.
+Ejemplo de uso: Soy capaz de crear un video corto para una presentación, combinando imágenes, texto y música.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con el desarrollo de contenido digital.
+Ejemplo de uso: Soy capaz de producir un podcast con múltiples segmentos y efectos de sonido.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para el desarrollo de contenido digital.
+Ejemplo de uso: Soy capaz de desarrollar una animación interactiva utilizando herramientas de software.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de contenido digital complejo y de alta calidad, innovando en formatos y medios.
+Ejemplo de uso: Diseñar y producir un videojuego educativo interactivo.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la creación de contenido digital que exploren nuevas formas de expresión y comunicación.
+Ejemplo de uso: Crear un entorno de realidad virtual inmersivo con fines educativos o artísticos.
+3.2. Integrar y reelaborar contenido digital
+Definición: Modificar, refinar, mejorar y combinar nuevo contenido y conocimiento previos para crear contenido y conocimiento digital nuevo, original y relevante.
+Nivel Fundacional 1 (F1): Integrar contenido digital simple en un documento existente con orientación.
+Ejemplo de uso: Soy capaz de insertar una imagen simple en un documento de texto con la ayuda de mi profesor.
+Nivel Fundacional 2 (F2): Integrar y reelaborar contenido digital básico de diferentes fuentes.
+Ejemplo de uso: Soy capaz de copiar y pegar texto de un sitio web a un documento, y darle un formato básico.
+Nivel Intermedio 3 (I3): Integrar y reelaborar contenido digital de diferentes fuentes para crear contenido nuevo.
+Ejemplo de uso: Soy capaz de combinar información de varias páginas web para crear un resumen coherente para un proyecto escolar.
+Nivel Intermedio 4 (I4): Integrar y reelaborar contenido digital de diferentes fuentes para crear contenido nuevo y original.
+Ejemplo de uso: Soy capaz de crear una infografía combinando datos de diferentes fuentes y presentándolos de forma visualmente atractiva.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la integración y reelaboración de contenido digital.
+Ejemplo de uso: Soy capaz de transformar un conjunto de datos en bruto en una serie de gráficos interactivos y visualizaciones.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la integración y reelaboración de contenido digital.
+Ejemplo de uso: Soy capaz de crear una narrativa multimedia combinando texto, imágenes, audio y video de diferentes fuentes.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de metodologías y herramientas para la integración y reelaboración avanzada de contenido digital a gran escala.
+Ejemplo de uso: Diseñar un sistema automatizado para la generación de informes a partir de múltiples fuentes de datos.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la integración y reelaboración de contenido digital que promuevan la creatividad, la innovación y la personalización.
+Ejemplo de uso: Crear un marco para la curación de contenido impulsada por IA que adapte la información a las necesidades de cada usuario.
+3.3. Derechos de autor y licencias
+Definición: Comprender cómo se aplican los derechos de autor y las licencias al contenido digital.
+Nivel Fundacional 1 (F1): Reconocer que el contenido digital tiene derechos de autor.
+Ejemplo de uso: Sé que no puedo copiar y pegar una imagen de Internet sin permiso.
+Nivel Fundacional 2 (F2): Identificar algunos tipos de licencias básicas para el contenido digital.
+Ejemplo de uso: Sé que las imágenes con licencia Creative Commons se pueden usar de ciertas maneras, pero debo citar al autor.
+Nivel Intermedio 3 (I3): Aplicar los derechos de autor y las licencias al contenido digital que se crea o utiliza.
+Ejemplo de uso: Soy capaz de elegir una licencia Creative Commons adecuada para una foto que publico en línea.
+Nivel Intermedio 4 (I4): Comprender las implicaciones de los derechos de autor y las licencias al crear o utilizar contenido digital.
+Ejemplo de uso: Soy capaz de determinar si un fragmento de música puede utilizarse en un vídeo personal sin infringir los derechos de autor.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con los derechos de autor y las licencias de contenido digital.
+Ejemplo de uso: Soy capaz de negociar los derechos de uso de una imagen con un fotógrafo profesional para un proyecto comercial.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para los derechos de autor y las licencias de contenido digital.
+Ejemplo de uso: Soy capaz de asesorar a una organización sobre las mejores prácticas para gestionar los derechos de autor de su contenido digital.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y estrategias legales para la gestión de derechos de autor y licencias en entornos digitales complejos.
+Ejemplo de uso: Diseñar un marco legal para el uso de inteligencia artificial en la creación de obras protegidas por derechos de autor.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para los derechos de autor y las licencias que aborden los desafíos de la era digital y promuevan modelos de distribución justos.
+Ejemplo de uso: Proponer un nuevo modelo de licencia para obras creativas generadas algorítmicamente.
+3.4. Programación
+Definición: Modificar, refinar, mejorar y combinar nuevo contenido y conocimiento previos para crear contenido y conocimiento digital nuevo, original y relevante.
+Nivel Fundacional 1 (F1): Comprender que las computadoras necesitan instrucciones para funcionar.
+Ejemplo de uso: Sé que un teléfono inteligente necesita aplicaciones para hacer diferentes cosas.
+Nivel Fundacional 2 (F2): Seguir instrucciones simples para realizar una tarea de programación básica.
+Ejemplo de uso: Soy capaz de seguir un tutorial en línea para crear un juego simple en Scratch.
+Nivel Intermedio 3 (I3): Crear instrucciones comprensibles para un sistema informático, siguiendo pautas existentes.
+Ejemplo de uso: Soy capaz de escribir un script sencillo para automatizar una tarea repetitiva en mi computadora.
+Nivel Intermedio 4 (I4): Crear instrucciones comprensibles para un sistema informático, modificando código existente.
+Ejemplo de uso: Soy capaz de modificar un pequeño programa para cambiar su comportamiento, por ejemplo, ajustar los colores de un sitio web.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la programación.
+Ejemplo de uso: Soy capaz de depurar un programa y corregir errores en el código.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras a través de la programación.
+Ejemplo de uso: Soy capaz de diseñar y desarrollar un pequeño programa o aplicación para resolver un problema específico.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de soluciones de software complejas y de alta calidad.
+Ejemplo de uso: Dirigir un equipo de desarrollo de software para construir una aplicación empresarial.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques y paradigmas de programación que impulsen la innovación y la transformación digital.
+Ejemplo de uso: Investigar y desarrollar un nuevo lenguaje de programación o un framework de desarrollo de software.
+5.4. Área 4: Seguridad
+Definición del área: Proteger dispositivos y contenido digital. Entender los riesgos y amenazas en los entornos digitales. Conocer medidas de seguridad y protección. Proteger la privacidad y los datos personales. Proteger la salud y el bienestar. Proteger el medio ambiente.
+4.1. Proteger dispositivos
+Definición: Proteger dispositivos digitales y contenido digital.
+Nivel Fundacional 1 (F1): Identificar algunos riesgos básicos para los dispositivos digitales con orientación.
+Ejemplo de uso: Sé que debo apagar mi computadora cuando no la uso para ahorrar energía.
+Nivel Fundacional 2 (F2): Proteger dispositivos digitales básicos utilizando medidas de seguridad simples.
+Ejemplo de uso: Soy capaz de configurar una contraseña simple en mi teléfono móvil.
+Nivel Intermedio 3 (I3): Proteger dispositivos digitales utilizando medidas de seguridad adecuadas.
+Ejemplo de uso: Soy capaz de instalar y actualizar software antivirus en mi computadora.
+Nivel Intermedio 4 (I4): Proteger dispositivos digitales y contenido digital contra riesgos comunes.
+Ejemplo de uso: Soy capaz de identificar correos electrónicos de phishing y evitar hacer clic en enlaces sospechosos.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la protección de dispositivos y contenido digital.
+Ejemplo de uso: Soy capaz de recuperar datos de un dispositivo dañado o infectado por un virus.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la protección de dispositivos y contenido digital.
+Ejemplo de uso: Soy capaz de configurar un sistema de copias de seguridad automático para proteger mis datos importantes.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo e implementación de estrategias de seguridad complejas para la protección de dispositivos y sistemas.
+Ejemplo de uso: Diseñar una arquitectura de seguridad de red para una organización.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la protección de dispositivos y datos que aborden amenazas emergentes y promuevan la resiliencia cibernética.
+Ejemplo de uso: Investigar y desarrollar nuevas técnicas de cifrado para proteger la comunicación en línea.
+4.2. Proteger datos personales y privacidad
+Definición: Proteger datos personales y privacidad en entornos digitales.
+Nivel Fundacional 1 (F1): Identificar algunos datos personales básicos que no deben compartirse.
+Ejemplo de uso: Sé que no debo compartir mi dirección o número de teléfono con extraños en línea.
+Nivel Fundacional 2 (F2): Proteger datos personales básicos y privacidad con orientación.
+Ejemplo de uso: Soy capaz de configurar la privacidad de mi perfil en redes sociales para que solo mis amigos puedan ver mis publicaciones.
+Nivel Intermedio 3 (I3): Proteger datos personales y privacidad en entornos digitales.
+Ejemplo de uso: Soy capaz de utilizar contraseñas seguras y diferentes para mis cuentas en línea.
+Nivel Intermedio 4 (I4): Proteger datos personales y privacidad, y comprender las implicaciones de su uso.
+Ejemplo de uso: Soy capaz de leer y comprender las políticas de privacidad de los sitios web antes de aceptar sus términos.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la protección de datos personales y la privacidad.
+Ejemplo de uso: Soy capaz de identificar y reportar una violación de datos personales o una estafa en línea.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la protección de datos personales y la privacidad.
+Ejemplo de uso: Soy capaz de configurar un servidor VPN personal para proteger mi privacidad en línea.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y soluciones para la protección de datos personales y la privacidad a gran escala.
+Ejemplo de uso: Diseñar un marco de gobernanza de datos para una organización que maneja información sensible.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la protección de datos personales y la privacidad que aborden desafíos éticos y regulatorios complejos.
+Ejemplo de uso: Investigar y proponer soluciones para la anonimización de datos en entornos de big data.
+4.3. Proteger la salud y el bienestar
+Definición: Evitar riesgos para la salud y el bienestar relacionados con el uso de la tecnología, como la protección de la salud física y psicológica. Ser capaz de protegerse a sí mismo y a otros de posibles peligros en entornos digitales.
+Nivel Fundacional 1 (F1): Identificar algunos riesgos básicos para la salud relacionados con el uso de la tecnología.
+Ejemplo de uso: Sé que mirar una pantalla durante mucho tiempo puede cansar mis ojos.
+Nivel Fundacional 2 (F2): Demostrar un comportamiento básico para proteger la salud y el bienestar al usar la tecnología.
+Ejemplo de uso: Soy capaz de tomar descansos regulares cuando uso mi computadora.
+Nivel Intermedio 3 (I3): Proteger la salud física y psicológica al usar la tecnología.
+Ejemplo de uso: Soy capaz de ajustar la postura de mi silla y mi escritorio para prevenir dolores de espalda.
+Nivel Intermedio 4 (I4): Protegerse a sí mismo y a otros de posibles peligros en entornos digitales relacionados con la salud y el bienestar.
+Ejemplo de uso: Soy capaz de reconocer señales de ciberacoso y sé a quién contactar para pedir ayuda.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la protección de la salud y el bienestar en entornos digitales.
+Ejemplo de uso: Soy capaz de identificar patrones de comportamiento adictivo en línea y buscar recursos para el manejo de la adicción.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la protección de la salud y el bienestar en entornos digitales.
+Ejemplo de uso: Soy capaz de diseñar un programa para fomentar el uso saludable de la tecnología en una escuela.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y programas para promover la salud digital y el bienestar en grandes comunidades o poblaciones.
+Ejemplo de uso: Diseñar una campaña de concientización pública sobre los riesgos del uso excesivo de pantallas.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la protección de la salud y el bienestar que aborden los desafíos emergentes de la tecnología y promuevan un equilibrio saludable entre la vida digital y la vida real.
+Ejemplo de uso: Investigar los efectos de la realidad virtual en la salud mental y proponer directrices de uso seguro.
+4.4. Proteger el medio ambiente
+Definición: Estar al tanto del impacto medioambiental de las tecnologías digitales y su uso.
+Nivel Fundacional 1 (F1): Reconocer que el uso de la tecnología puede tener un impacto en el medio ambiente.
+Ejemplo de uso: Sé que dejar el cargador del teléfono enchufado consume electricidad.
+Nivel Fundacional 2 (F2): Realizar acciones básicas para reducir el impacto medioambiental de las tecnologías digitales.
+Ejemplo de uso: Soy capaz de apagar las luces cuando salgo de una habitación, incluyendo el monitor de mi computadora.
+Nivel Intermedio 3 (I3): Tomar decisiones informadas para reducir el impacto medioambiental de las tecnologías digitales.
+Ejemplo de uso: Soy capaz de elegir electrodomésticos con etiqueta energética eficiente.
+Nivel Intermedio 4 (I4): Contribuir activamente a la reducción del impacto medioambiental de las tecnologías digitales.
+Ejemplo de uso: Soy capaz de reciclar correctamente mis dispositivos electrónicos viejos.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con el impacto medioambiental de las tecnologías digitales.
+Ejemplo de uso: Soy capaz de investigar y comparar el impacto ambiental de diferentes servicios en la nube antes de elegirlos.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para reducir el impacto medioambiental de las tecnologías digitales.
+Ejemplo de uso: Soy capaz de diseñar una campaña de concienciación en mi comunidad sobre la importancia del reciclaje de residuos electrónicos.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de políticas y prácticas para la sostenibilidad ambiental en el sector de las tecnologías digitales.
+Ejemplo de uso: Diseñar una estrategia de eficiencia energética para un centro de datos.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la sostenibilidad digital que promuevan un uso responsable de la tecnología y minimicen su huella ecológica.
+Ejemplo de uso: Investigar y proponer modelos de economía circular para la industria electrónica.
+5.5. Área 5: Resolución de problemas
+Definición del área: Identificar necesidades y problemas, y resolver problemas conceptuales y técnicos en entornos digitales. Usar creativamente las tecnologías digitales. Identificar brechas de competencia digital.
+5.1. Resolver problemas técnicos
+Definición: Identificar problemas técnicos al operar dispositivos y utilizar entornos digitales. Resolverlos (desde la resolución de problemas hasta la resolución de problemas más complejos).
+Nivel Fundacional 1 (F1): Identificar algunos problemas técnicos simples con orientación.
+Ejemplo de uso: Sé que si mi ratón no se mueve, puede que esté desconectado.
+Nivel Fundacional 2 (F2): Resolver problemas técnicos básicos con orientación.
+Ejemplo de uso: Soy capaz de reiniciar mi enrutador de internet cuando no tengo conexión.
+Nivel Intermedio 3 (I3): Resolver problemas técnicos comunes al operar dispositivos y utilizar entornos digitales.
+Ejemplo de uso: Soy capaz de reinstalar un programa que no funciona correctamente.
+Nivel Intermedio 4 (I4): Resolver problemas técnicos complejos al operar dispositivos y utilizar entornos digitales.
+Ejemplo de uso: Soy capaz de diagnosticar por qué mi impresora no funciona y encontrar una solución en línea.
+Nivel Avanzado 5 (A5): Resolver problemas técnicos complejos, desarrollando soluciones creativas.
+Ejemplo de uso: Soy capaz de configurar un nuevo sistema operativo en mi computadora y resolver los problemas de compatibilidad.
+Nivel Avanzado 6 (A6): Resolver problemas técnicos complejos y crear soluciones innovadoras.
+Ejemplo de uso: Soy capaz de identificar un cuello de botella en el rendimiento de un sistema y optimizarlo.
+Nivel Altamente Especializado 7 (AE7): Liderar la resolución de problemas técnicos altamente complejos y la innovación en soluciones tecnológicas.
+Ejemplo de uso: Diseñar un sistema de recuperación de desastres para una infraestructura de TI crítica.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la resolución de problemas técnicos que aborden desafíos a gran escala y la transformación digital.
+Ejemplo de uso: Crear un framework de diagnóstico automático de problemas para sistemas distribuidos.
+5.2. Identificar necesidades y respuestas tecnológicas
+Definición: Identificar las necesidades y las posibles respuestas tecnológicas. Adaptar las tecnologías digitales a las necesidades personales. Estar al tanto de las novedades de la tecnología digital.
+Nivel Fundacional 1 (F1): Identificar algunas necesidades básicas que pueden ser satisfechas por la tecnología digital.
+Ejemplo de uso: Sé que puedo usar una aplicación de mapas para encontrar una dirección.
+Nivel Fundacional 2 (F2): Seleccionar algunas tecnologías digitales simples para satisfacer necesidades básicas.
+Ejemplo de uso: Soy capaz de elegir una aplicación de mensajería para comunicarme con mis amigos.
+Nivel Intermedio 3 (I3): Identificar necesidades y seleccionar las respuestas tecnológicas más adecuadas.
+Ejemplo de uso: Soy capaz de elegir el tipo de software de edición de fotos adecuado para una tarea específica.
+Nivel Intermedio 4 (I4): Adaptar las tecnologías digitales para satisfacer necesidades personales o profesionales.
+Ejemplo de uso: Soy capaz de configurar mis preferencias en una aplicación de productividad para optimizar mi flujo de trabajo.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la identificación de necesidades y respuestas tecnológicas.
+Ejemplo de uso: Soy capaz de analizar las necesidades de un pequeño negocio y recomendar soluciones tecnológicas adecuadas.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para la identificación de necesidades y respuestas tecnológicas.
+Ejemplo de uso: Soy capaz de diseñar un prototipo de una aplicación móvil para abordar una necesidad social.
+Nivel Altamente Especializado 7 (AE7): Liderar la identificación de necesidades complejas y el desarrollo de respuestas tecnológicas innovadoras a nivel estratégico.
+Ejemplo de uso: Definir la hoja de ruta tecnológica para una startup de base tecnológica.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la identificación de necesidades y respuestas tecnológicas que impulsen la transformación digital y la innovación disruptiva.
+Ejemplo de uso: Investigar y proponer nuevas aplicaciones de inteligencia artificial para resolver desafíos globales.
+5.3. Usar creativamente las tecnologías digitales
+Definición: Usar herramientas y tecnologías digitales para crear conocimiento e innovar en los procesos y productos.
+Nivel Fundacional 1 (F1): Usar algunas herramientas digitales de forma creativa con orientación.
+Ejemplo de uso: Soy capaz de usar una aplicación de dibujo simple para crear un garabato.
+Nivel Fundacional 2 (F2): Usar herramientas digitales de forma creativa para expresar ideas básicas.
+Ejemplo de uso: Soy capaz de usar un programa de presentación para crear diapositivas con imágenes y texto que expresen una idea.
+Nivel Intermedio 3 (I3): Usar herramientas y tecnologías digitales para crear conocimiento.
+Ejemplo de uso: Soy capaz de utilizar un editor de vídeo para crear un corto documental.
+Nivel Intermedio 4 (I4): Usar herramientas y tecnologías digitales para innovar en procesos y productos.
+Ejemplo de uso: Soy capaz de utilizar software de modelado 3D para diseñar un objeto y luego imprimirlo en 3D.
+Nivel Avanzado 5 (A5): Resolver problemas complejos usando las tecnologías digitales de forma creativa.
+Ejemplo de uso: Soy capaz de desarrollar una instalación de arte interactiva utilizando sensores y programación.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras a través del uso creativo de las tecnologías digitales.
+Ejemplo de uso: Soy capaz de diseñar una experiencia de aprendizaje gamificada utilizando plataformas digitales.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de proyectos y estrategias que integren las tecnologías digitales de forma innovadora para crear nuevo conocimiento y valor.
+Ejemplo de uso: Dirigir un laboratorio de innovación que explore el uso de la realidad aumentada en la educación.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos paradigmas para el uso creativo de las tecnologías digitales que impulsen la transformación y generen un impacto social significativo.
+Ejemplo de uso: Crear una nueva forma de arte digital que combine inteligencia artificial y neurotecnología.
+5.4. Identificar brechas de competencia digital
+Definición: Comprender dónde se necesita mejorar la propia competencia digital. Apoyar a otros en el desarrollo de su competencia digital. Mantenerse al día con la evolución digital.
+Nivel Fundacional 1 (F1): Reconocer que hay cosas que no sé hacer con la tecnología.
+Ejemplo de uso: Sé que necesito ayuda para configurar una nueva aplicación en mi teléfono.
+Nivel Fundacional 2 (F2): Identificar algunas áreas de mejora de la competencia digital propia con orientación.
+Ejemplo de uso: Sé que necesito aprender a usar hojas de cálculo para mi trabajo.
+Nivel Intermedio 3 (I3): Identificar brechas de competencia digital propias.
+Ejemplo de uso: Soy capaz de identificar qué habilidades digitales me faltan para ser más eficiente en mi trabajo.
+Nivel Intermedio 4 (I4): Mantenerse al día con la evolución digital y buscar oportunidades para mejorar las competencias digitales.
+Ejemplo de uso: Soy capaz de seguir blogs de tecnología y noticias del sector para mantenerme informado.
+Nivel Avanzado 5 (A5): Resolver problemas complejos relacionados con la identificación de brechas de competencia digital.
+Ejemplo de uso: Soy capaz de desarrollar un plan de aprendizaje personal para adquirir nuevas habilidades digitales complejas.
+Nivel Avanzado 6 (A6): Resolver problemas complejos y crear soluciones innovadoras para identificar y abordar brechas de competencia digital, apoyando a otros.
+Ejemplo de uso: Soy capaz de diseñar un programa de tutoría para ayudar a compañeros menos experimentados a mejorar sus habilidades digitales.
+Nivel Altamente Especializado 7 (AE7): Liderar el desarrollo de estrategias y marcos para la identificación y el abordaje de brechas de competencia digital a nivel organizacional o social.
+Ejemplo de uso: Diseñar un programa de capacitación masiva en competencias digitales para una ciudad.
+Nivel Altamente Especializado 8 (AE8): Iniciar y desarrollar nuevos enfoques para la identificación y el abordaje de brechas de competencia digital que promuevan la inclusión digital y el empoderamiento a gran escala.
+Ejemplo de uso: Investigar y proponer políticas públicas para cerrar la brecha digital en poblaciones desfavorecidas.
+6. Aplicaciones de DigComp
+DigComp ha sido ampliamente adoptado y utilizado en diversos contextos en toda Europa desde su primera publicación en 2013. Su estructura flexible y su lenguaje común lo hacen una herramienta valiosa para múltiples aplicaciones.
+Algunos ejemplos de cómo se ha aplicado DigComp incluyen:
+Desarrollo de planes de estudio y formación: Muchos Estados miembros y organizaciones educativas han utilizado DigComp como base para desarrollar o revisar sus planes de estudio y programas de formación en competencias digitales. Esto ayuda a asegurar que los programas aborden las habilidades digitales relevantes y proporcionen una progresión clara del aprendizaje.
+Evaluación y certificación: DigComp ha sido utilizado para desarrollar herramientas de autoevaluación y exámenes de certificación que permiten a los ciudadanos evaluar su propio nivel de competencia digital y obtener un reconocimiento formal de sus habilidades.
+Empleabilidad: Los empleadores y los servicios de empleo han utilizado DigComp para describir las competencias digitales requeridas para diferentes puestos de trabajo, lo que facilita la identificación de candidatos con las habilidades adecuadas y el desarrollo de programas de reciclaje profesional.
+Formulación de políticas: DigComp ha informado el desarrollo de políticas nacionales y regionales sobre competencias digitales, ayudando a los gobiernos a diseñar estrategias para mejorar la alfabetización digital de sus ciudadanos.
+Investigación: El marco ha sido utilizado en proyectos de investigación para estudiar el estado de la competencia digital en diferentes grupos de población y para evaluar el impacto de las intervenciones.
+Inclusión social: DigComp ha servido de guía para iniciativas destinadas a reducir la brecha digital y promover la inclusión de grupos vulnerables, asegurando que todos los ciudadanos tengan la oportunidad de desarrollar las habilidades digitales necesarias para participar plenamente en la sociedad.
+Iniciativas de la UE: DigComp es un componente clave de varias iniciativas de la Comisión Europea, como la Coalición para las Competencias y el Empleo Digitales, y se utiliza para monitorear el progreso de la agenda digital de la UE.
+La adaptabilidad de DigComp a diferentes contextos y propósitos lo convierte en una herramienta fundamental para abordar los desafíos de la era digital y empoderar a los ciudadanos con las habilidades que necesitan para prosperar.
+7. Conclusiones
+El Marco de Competencia Digital para los Ciudadanos (DigComp) ha demostrado ser una herramienta esencial en la era digital, proporcionando un lenguaje común y una estructura sólida para describir, evaluar y desarrollar las competencias digitales. Desde su primera publicación en 2013, ha evolucionado para mantenerse relevante y satisfacer las necesidades cambiantes de los ciudadanos, los educadores, los empleadores y los responsables políticos.
+DigComp 2.1, con la adición de ocho niveles de competencia detallados y ejemplos de uso prácticos para cada una de las 21 competencias, representa un avance significativo. Estos niveles permiten una progresión más granular y un entendimiento más claro de lo que implica cada competencia en diferentes grados de dominio. Los ejemplos de uso, por su parte, facilitan la aplicación del marco en situaciones reales, ya sea para el diseño de planes de estudio, la evaluación de habilidades o el desarrollo profesional.
+La disponibilidad de DigComp 2.1 en formato de datos de código abierto subraya su compromiso con la apertura y la interoperabilidad, permitiendo que el marco sea integrado y reutilizado por una amplia gama de usuarios y sistemas. Esto fomenta una adopción más generalizada y la creación de herramientas y recursos innovadores basados en DigComp.
+En un mundo cada vez más digitalizado, las competencias digitales son fundamentales para la participación activa en la sociedad, la empleabilidad y el desarrollo personal. DigComp 2.1 continúa siendo una guía vital para capacitar a los ciudadanos de Europa con las habilidades necesarias para navegar con éxito en el panorama digital, enfrentar sus desafíos y aprovechar sus oportunidades.
+El JRC seguirá monitoreando el uso de DigComp y explorando posibles futuras actualizaciones para asegurar que el marco siga siendo relevante y valioso en los años venideros. El objetivo final es garantizar que todos los ciudadanos de la UE tengan las competencias digitales que necesitan para prosperar en una sociedad en constante evolución.
+8. Referencias
+Comisión Europea (2010). Europa 2020. Una estrategia para un crecimiento inteligente, sostenible e integrador. COM (2010) 2020 final. Bruselas.
+Comisión Europea (2012). Una Agenda Europea de Nuevas Cualificaciones y Empleos: una contribución a la Estrategia Europa 2020. Bruselas, 23.11.2010. COM (2010) 682 final.
+Comisión Europea (2016). Una nueva agenda de capacidades para Europa: Trabajar juntos para reforzar el capital humano, la empleabilidad y la competitividad. COM(2016) 381 final. Bruselas.
+Consejo de Europa (2001). Marco Común Europeo de Referencia para las Lenguas: Aprendizaje, Enseñanza, Evaluación. Cambridge University Press.
+Ferrari, A. (2013). DigComp: Un Marco para Desarrollar y Comprender la Competencia Digital en Europa. Informe del Centro Común de Investigación. EUR 26035 EN. Luxemburgo: Oficina de Publicaciones de la Unión Europea.
+NLQF (2011). Marco de Cualificaciones Holandés. Disponible en: http://www.nlqf.nl/
+Vuorikari, R., Punie, Y., Carretero, S., & Van den Brande, G. (2016). DigComp 2.0: El Marco de Competencia Digital para los Ciudadanos. Informe del Centro Común de Investigación. EUR 27948 EN. Luxemburgo: Oficina de Publicaciones de la Unión Europea.
+Anexo I: Metodología
+La revisión de los niveles de competencia de DigComp 2.0 para crear DigComp 2.1 siguió un proceso iterativo y colaborativo, involucrando a expertos y partes interesadas. Los pasos clave fueron:
+Revisión de la literatura y marcos existentes: Se llevó a cabo una revisión de marcos de competencia digital y de habilidades existentes, así como de la literatura relevante sobre la progresión del aprendizaje y la taxonomía de habilidades. Se prestó especial atención al NLQF holandés y al MCERL para las lenguas como modelos para estructurar los niveles de competencia.
+
+
+Talleres con expertos: Se organizaron talleres con expertos en educación, capacitación, empleabilidad y tecnología de varios Estados miembros de la UE. Estos talleres tuvieron como objetivo recopilar aportaciones sobre la definición de los niveles de competencia y discutir ejemplos de uso.
+
+
+Desarrollo de los descriptores de nivel: Basándose en la revisión y los aportes de los talleres, el equipo del JRC desarrolló los borradores iniciales de los descriptores para los ocho niveles de competencia de cada una de las 21 competencias. Se utilizaron verbos de acción y condiciones para asegurar que los descriptores fueran claros y medibles.
+
+
+Validación con la red DigComp: Los borradores de los niveles de competencia y los ejemplos de uso se compartieron con la red DigComp, compuesta por representantes de los Estados miembros y expertos de diversas organizaciones. Se realizaron rondas de consulta para recopilar comentarios y sugerencias para la mejora.
+
+
+Refinamiento y ejemplos de uso: Los comentarios recibidos se utilizaron para refinar los descriptores de los niveles de competencia y desarrollar ejemplos de uso concretos que ilustraran cada nivel de competencia. Se buscó un equilibrio entre la claridad, la relevancia y la cobertura de diferentes contextos (educativo, laboral, social).
+
+
+Publicación: Una vez finalizadas las revisiones y validaciones, se preparó el informe final y se publicó como DigComp 2.1. El marco también se puso a disposición en un formato de datos de código abierto para facilitar su reutilización.
+
+
+Este proceso aseguró que DigComp 2.1 fuera un marco robusto, relevante y práctico, desarrollado en colaboración con una amplia gama de partes interesadas.
+Anexo II: Ejemplos de uso
+Los siguientes ejemplos de uso tienen como objetivo ilustrar las competencias de DigComp 2.1 en diferentes contextos y niveles de dominio. Estos ejemplos no son exhaustivos, sino que sirven como guía para comprender mejor la aplicación práctica de cada competencia.
+Competencia 1.1. Navegar, buscar y filtrar datos, información y contenido digital
+F1: Un niño pequeño, con la ayuda de sus padres, es capaz de buscar su caricatura favorita en una plataforma de video en línea.
+F2: Un estudiante de primaria es capaz de buscar imágenes de animales en un motor de búsqueda usando palabras clave simples.
+I3: Un adulto es capaz de usar filtros avanzados en una tienda en línea para encontrar un producto específico que cumpla con sus requisitos.
+I4: Un periodista es capaz de usar herramientas de búsqueda especializadas para encontrar datos y documentos relevantes para una investigación.
+A5: Un bibliotecario es capaz de diseñar estrategias de búsqueda complejas para recuperar información de bases de datos científicas en diferentes formatos.
+A6: Un analista de datos es capaz de desarrollar scripts para automatizar la extracción y el filtrado de grandes volúmenes de datos de diversas fuentes.
+AE7: Un científico de datos lidera el desarrollo de un nuevo motor de búsqueda semántica para una base de datos de investigación masiva.
+AE8: Un arquitecto de sistemas diseña un sistema de gestión de información empresarial que permite una búsqueda y recuperación de contenido eficiente y personalizada a través de múltiples repositorios.
+Competencia 1.2. Evaluar datos, información y contenido digital
+F1: Un niño es capaz de reconocer un dibujo animado de una persona real en una pantalla.
+F2: Un adolescente es capaz de diferenciar entre una publicación de noticias real y una publicación patrocinada en las redes sociales.
+I3: Un estudiante es capaz de comparar información de dos sitios web diferentes para un trabajo escolar y decidir cuál es más confiable.
+I4: Un consumidor es capaz de leer reseñas de productos en línea y evaluar su credibilidad basándose en la coherencia y el detalle.
+A5: Un investigador es capaz de evaluar la metodología y las fuentes de un informe científico en línea para determinar su validez.
+A6: Un experto en marketing es capaz de analizar datos de diferentes encuestas de mercado y determinar la fiabilidad de las conclusiones.
+AE7: Un experto en seguridad cibernética desarrolla un marco para evaluar la autenticidad y la integridad de la información en entornos de ataques de desinformación.
+AE8: Un especialista en ética de la IA diseña un protocolo para evaluar el sesgo y la equidad en los resultados generados por algoritmos de inteligencia artificial.
+Competencia 1.3. Gestionar datos, información y contenido digital
+F1: Un usuario guarda una foto en la galería de su teléfono.
+F2: Un estudiante crea una carpeta para sus trabajos escolares en el escritorio de su computadora.
+I3: Un profesional organiza sus correos electrónicos en carpetas por proyecto o cliente.
+I4: Un fotógrafo utiliza software para etiquetar y organizar sus fotos por fecha, lugar y tema.
+A5: Un gestor de proyectos configura un sistema de gestión de documentos en la nube para un equipo, incluyendo control de versiones y permisos de acceso.
+A6: Un administrador de sistemas diseña e implementa una estrategia de copias de seguridad de datos para toda una organización.
+AE7: Un director de TI lidera la migración de todos los datos de la empresa a un nuevo sistema de gestión de bases de datos basado en la nube.
+AE8: Un científico de datos desarrolla un esquema de base de datos innovador para gestionar conjuntos de datos heterogéneos a escala de petabytes.
+Competencia 2.1. Interactuar a través de tecnologías digitales
+F1: Un niño usa un teléfono para hablar con su abuela.
+F2: Un adulto envía y recibe mensajes de texto en su teléfono móvil.
+I3: Un estudiante participa en un foro de discusión en línea para su clase.
+I4: Un empleado utiliza una plataforma de videoconferencia para una reunión de trabajo y ajusta la configuración de audio y vídeo.
+A5: Un consultor dirige una serie de reuniones virtuales con clientes internacionales, manejando las diferencias de zona horaria y las herramientas de colaboración.
+A6: Un moderador de comunidad en línea resuelve conflictos entre usuarios y fomenta un debate productivo utilizando herramientas de moderación.
+AE7: Un desarrollador de software diseña una nueva API de comunicación en tiempo real para una aplicación de colaboración masiva.
+AE8: Un experto en diseño de interacción crea un nuevo paradigma para la comunicación inmersiva en entornos de realidad virtual.
+Competencia 2.2. Compartir a través de tecnologías digitales
+F1: Un usuario comparte una foto con un amigo a través de una aplicación de mensajería.
+F2: Un estudiante comparte un documento de texto con un compañero de clase a través de un servicio de almacenamiento en la nube, asegurándose de que el compañero solo pueda verlo.
+I3: Un fotógrafo comparte un álbum de fotos en una plataforma de redes sociales, ajustando la configuración de privacidad para que solo lo vean sus amigos.
+I4: Un investigador comparte los resultados de su trabajo en un repositorio de acceso abierto, seleccionando la licencia Creative Commons adecuada.
+A5: Un profesor crea un curso en línea y comparte materiales educativos con los estudiantes, incluyendo recursos con diferentes tipos de licencia.
+A6: Un profesional del marketing digital gestiona la distribución de contenido en múltiples plataformas en línea, optimizando el formato para cada una.
+AE7: Un experto en derecho de autor desarrolla un sistema de gestión de derechos digitales para proteger y monetizar el contenido creativo en línea.
+AE8: Un evangelista de código abierto crea un nuevo modelo de licenciamiento que equilibra la apertura con la sostenibilidad económica para proyectos colaborativos.
+Competencia 2.3. Participar en la ciudadanía a través de tecnologías digitales
+F1: Un ciudadano busca la dirección de una oficina gubernamental en línea.
+F2: Un ciudadano paga una factura de servicios públicos en línea a través del portal de su banco.
+I3: Un ciudadano firma una petición en línea sobre un tema que le preocupa.
+I4: Un ciudadano participa en una encuesta en línea organizada por su ayuntamiento sobre mejoras en el transporte público.
+A5: Un activista organiza una campaña en redes sociales para concienciar sobre un problema social y movilizar a la gente para la acción.
+A6: Un líder comunitario utiliza herramientas digitales para facilitar la participación de los ciudadanos en la planificación urbana y la toma de decisiones.
+AE7: Un desarrollador cívico diseña una plataforma de participación ciudadana que permite a los residentes proponer y votar sobre proyectos locales.
+AE8: Un experto en gobernanza digital investiga e implementa nuevos modelos de democracia electrónica que aumentan la transparencia y la rendición de cuentas.
+Competencia 2.4. Colaborar a través de tecnologías digitales
+F1: Dos estudiantes utilizan un chat de video para hablar sobre una tarea escolar.
+F2: Un grupo de estudiantes edita un documento compartido en Google Docs para un proyecto.
+I3: Un equipo de trabajo utiliza una herramienta de gestión de proyectos en línea para asignar tareas y seguir el progreso.
+I4: Un grupo de voluntarios colabora en la creación de un sitio web para una organización sin fines de lucro, utilizando herramientas de desarrollo web colaborativas.
+A5: Un equipo de investigación internacional utiliza plataformas de colaboración en línea para co-escribir un artículo científico y compartir datos.
+A6: Un gestor de proyectos coordina un equipo multidisciplinar distribuido geográficamente para desarrollar un nuevo producto de software.
+AE7: Un arquitecto de sistemas diseña una plataforma de colaboración empresarial que integra múltiples herramientas y flujos de trabajo.
+AE8: Un experto en conocimiento colectivo desarrolla un marco para la cocreación de contenido a gran escala, utilizando principios de crowdsourcing e inteligencia artificial.
+Competencia 2.5. Netiqueta
+F1: Un niño aprende a decir "por favor" y "gracias" en los mensajes de texto.
+F2: Un adolescente sabe que no debe escribir en mayúsculas sostenidas en los foros en línea, ya que se percibe como gritar.
+I3: Un adulto es capaz de adaptar su tono de voz y lenguaje en un correo electrónico profesional según el destinatario.
+I4: Un profesional participa en una reunión en línea, asegurándose de silenciar su micrófono cuando no está hablando y de no interrumpir a los demás.
+A5: Un experto en redes sociales gestiona la comunicación en línea de una empresa, respondiendo a los comentarios negativos de forma constructiva y profesional.
+A6: Un moderador de foros en línea establece y hace cumplir las reglas de conducta para mantener un ambiente de respeto y debate civilizado.
+AE7: Un consultor de comunicación digital desarrolla programas de formación en netiqueta para organizaciones que operan a nivel global.
+AE8: Un especialista en ética de la IA investiga las implicaciones éticas del discurso de odio en línea y propone soluciones algorítmicas y humanas para mitigarlo.
+Competencia 2.6. Gestionar la identidad digital
+F1: Un niño sabe que su nombre de usuario en un juego en línea es parte de su identidad digital.
+F2: Un adolescente crea un perfil en una red social y configura su privacidad para que solo sus amigos puedan ver sus fotos.
+I3: Un adulto mantiene perfiles separados en LinkedIn para su vida profesional y en Facebook para su vida personal.
+I4: Un artista utiliza un alias en línea para su trabajo creativo, pero es consciente de la información que puede ser vinculada a su identidad real.
+A5: Un profesional de las relaciones públicas monitorea la reputación en línea de una marca y responde a reseñas o menciones negativas.
+A6: Un experto en ciberseguridad asesora a individuos y organizaciones sobre cómo proteger su identidad digital y evitar el robo de identidad.
+AE7: Un especialista en autenticación lidera el desarrollo de soluciones de identidad descentralizada basadas en blockchain.
+AE8: Un investigador en privacidad de datos propone un nuevo marco para la gestión de la identidad digital que otorga a los individuos un control total sobre sus datos personales.
+Competencia 3.1. Desarrollar contenido digital
+F1: Un niño usa un programa de dibujo simple para crear un garabato.
+F2: Un estudiante usa un procesador de texto para escribir un ensayo corto.
+I3: Un profesor crea una presentación interactiva con diapositivas, texto e imágenes para una clase.
+I4: Un aficionado a la fotografía edita fotos con un software de edición, ajustando colores y recortando.
+A5: Un diseñador gráfico crea un folleto digital con un diseño atractivo y elementos gráficos personalizados.
+A6: Un creador de contenido de vídeo produce y edita un cortometraje con efectos especiales y música.
+AE7: Un desarrollador de videojuegos lidera la creación de un nuevo motor de juego para gráficos 3D.
+AE8: Un artista digital utiliza inteligencia artificial para generar nuevas formas de arte visual y sonoro.
+Competencia 3.2. Integrar y reelaborar contenido digital
+F1: Un niño pega una imagen de internet en un documento de texto.
+F2: Un estudiante copia y pega texto de una página web en su trabajo, citando la fuente.
+I3: Un periodista recopila información de varias fuentes en línea y la resume en un artículo de noticias.
+I4: Un bloguero integra imágenes, videos y citas de diferentes sitios web para crear una publicación de blog original.
+A5: Un investigador combina datos de múltiples bases de datos para crear un nuevo conjunto de datos para su análisis.
+A6: Un editor multimedia reelabora material de archivo existente para crear un nuevo documental con una narrativa diferente.
+AE7: Un científico de datos desarrolla algoritmos para integrar y limpiar grandes conjuntos de datos heterogéneos para el aprendizaje automático.
+AE8: Un curador de contenido utiliza IA para descubrir y combinar contenido relevante de diversas fuentes, personalizándolo para audiencias específicas.
+Competencia 3.3. Derechos de autor y licencias
+F1: Un niño sabe que no puede copiar las canciones favoritas de sus padres y venderlas.
+F2: Un estudiante sabe que debe citar la fuente cuando usa información de Wikipedia en su trabajo.
+I3: Un bloguero comprende las diferentes licencias Creative Commons y elige la adecuada para sus imágenes.
+I4: Un desarrollador de software de código abierto sabe cómo elegir una licencia de código abierto para su proyecto que permita la reutilización y la contribución.
+A5: Un editor de contenido en línea resuelve problemas de infracción de derechos de autor, contactando a los titulares de derechos o eliminando contenido infractor.
+A6: Un abogado especializado en propiedad intelectual asesora a empresas sobre la protección de sus obras digitales y la gestión de licencias.
+AE7: Un experto en blockchain diseña un sistema de gestión de derechos digitales basado en contratos inteligentes para la industria musical.
+AE8: Un legislador propone nuevas leyes de derechos de autor que abordan los desafíos de la distribución de contenido en la era digital y la IA.
+Competencia 3.4. Programación
+F1: Un niño arrastra y suelta bloques de código en Scratch para hacer que un personaje se mueva.
+F2: Un estudiante sigue las instrucciones para crear un programa simple que muestre un mensaje en la pantalla.
+I3: Un entusiasta de la tecnología escribe un script básico en Python para automatizar una tarea en su computadora.
+I4: Un diseñador web modifica el código CSS de un sitio web para cambiar su apariencia.
+A5: Un desarrollador de software depura un programa complejo y optimiza su rendimiento.
+A6: Un ingeniero de software diseña e implementa una pequeña aplicación móvil para una necesidad específica.
+AE7: Un arquitecto de software lidera el diseño y la implementación de un sistema de software distribuido a gran escala.
+AE8: Un científico informático investiga y desarrolla nuevos paradigmas de programación, como la programación cuántica.
+Competencia 4.1. Proteger dispositivos
+F1: Un niño aprende a apagar y encender correctamente una tableta.
+F2: Un usuario configura un PIN o patrón de desbloqueo en su teléfono inteligente.
+I3: Un adulto instala un software antivirus en su computadora y lo actualiza regularmente.
+I4: Un usuario identifica y evita la descarga de software malicioso de fuentes no confiables.
+A5: Un administrador de sistemas configura firewalls y sistemas de detección de intrusiones para proteger una red empresarial.
+A6: Un experto en seguridad cibernética realiza pruebas de penetración para identificar vulnerabilidades en los sistemas y proponer soluciones.
+AE7: Un ingeniero de seguridad diseña una infraestructura de seguridad robusta para un centro de datos en la nube.
+AE8: Un criptógrafo desarrolla nuevos algoritmos de cifrado para proteger la información en dispositivos de borde.
+Competencia 4.2. Proteger datos personales y privacidad
+F1: Un niño sabe que no debe dar su nombre completo a extraños en línea.
+F2: Un adolescente configura la privacidad de su perfil de Instagram para que solo sus seguidores vean sus publicaciones.
+I3: Un adulto utiliza contraseñas fuertes y únicas para sus cuentas en línea y un gestor de contraseñas.
+I4: Un usuario revisa las políticas de privacidad de las aplicaciones antes de instalarlas para entender cómo se utilizan sus datos.
+A5: Un experto en privacidad asesora a una empresa sobre el cumplimiento del Reglamento General de Protección de Datos (RGPD).
+A6: Un abogado especializado en derecho digital representa a individuos en casos de violación de datos o robo de identidad.
+AE7: Un experto en gobernanza de datos diseña e implementa un marco de privacidad por diseño para el desarrollo de nuevos productos digitales.
+AE8: Un defensor de la privacidad propone nuevas regulaciones para proteger la privacidad de los datos biométricos en la era de la inteligencia artificial.
+Competencia 4.3. Proteger la salud y el bienestar
+F1: Un niño entiende que debe descansar sus ojos de la pantalla después de jugar durante un tiempo.
+F2: Un adolescente sabe cuándo debe desconectarse de las redes sociales para evitar sentirse abrumado.
+I3: Un adulto configura el modo "no molestar" en su teléfono para evitar interrupciones durante el sueño.
+I4: Un padre utiliza herramientas de control parental para limitar el tiempo de pantalla de sus hijos y asegurar un uso saludable de la tecnología.
+A5: Un psicólogo investiga los efectos del uso excesivo de la tecnología en la salud mental y desarrolla estrategias de intervención.
+A6: Un diseñador de software crea aplicaciones que promueven hábitos saludables, como recordatorios de postura o pausas.
+AE7: Un experto en salud pública lidera campañas de concienciación sobre la adicción a internet y el ciberacoso.
+AE8: Un investigador en neurociencia explora el impacto de la realidad virtual en el cerebro y propone directrices para un uso seguro y terapéutico.
+Competencia 4.4. Proteger el medio ambiente
+F1: Un niño sabe que debe apagar las luces cuando no las necesita para ahorrar energía.
+F2: Un usuario desconecta los cargadores de sus dispositivos cuando no los usa para evitar el consumo "fantasma".
+I3: Un consumidor investiga el impacto ambiental de los productos electrónicos antes de comprarlos.
+I4: Un usuario recicla sus dispositivos electrónicos viejos en puntos de recogida autorizados.
+A5: Un gerente de oficina implementa políticas de eficiencia energética para los equipos informáticos.
+A6: Un ingeniero de TI diseña soluciones de infraestructura de TI que minimizan el consumo de energía y la huella de carbono.
+AE7: Un consultor de sostenibilidad asesora a empresas sobre cómo reducir su impacto ambiental digital a través de la computación en la nube verde.
+AE8: Un científico de materiales desarrolla nuevos componentes electrónicos más sostenibles y fáciles de reciclar.
+Competencia 5.1. Resolver problemas técnicos
+F1: Un niño es capaz de pedir ayuda a un adulto cuando su juego no carga.
+F2: Un usuario reinicia su computadora cuando se congela.
+I3: Un adulto es capaz de solucionar problemas de conexión a internet básicos, como verificar los cables o reiniciar el enrutador.
+I4: Un usuario busca en línea soluciones para un problema con un software específico y sigue las instrucciones para solucionarlo.
+A5: Un técnico de soporte de TI diagnostica y resuelve problemas complejos de hardware y software en una red empresarial.
+A6: Un desarrollador de software depura código complejo para encontrar y corregir errores que causan fallas en la aplicación.
+AE7: Un ingeniero de confiabilidad de sitios (SRE) diseña sistemas automatizados para detectar y resolver problemas en infraestructuras a gran escala.
+AE8: Un científico informático desarrolla nuevas metodologías para el diagnóstico y la reparación autónoma de sistemas complejos.
+Competencia 5.2. Identificar necesidades y respuestas tecnológicas
+F1: Un niño sabe que puede usar su tableta para ver videos.
+F2: Un estudiante elige una aplicación de calendario para organizar sus tareas escolares.
+I3: Un profesional identifica la necesidad de un software de gestión de proyectos para su equipo y evalúa diferentes opciones.
+I4: Un emprendedor utiliza herramientas en línea para realizar una investigación de mercado y encontrar un nicho para su nuevo producto.
+A5: Un consultor de negocios analiza los requisitos de una empresa y propone una solución tecnológica personalizada para mejorar sus operaciones.
+A6: Un diseñador de UX/UI realiza una investigación de usuarios para identificar sus necesidades y diseñar una interfaz intuitiva para una aplicación.
+AE7: Un estratega de TI lidera la evaluación de tecnologías emergentes y su potencial para transformar la estrategia de una organización.
+AE8: Un futurista tecnológico identifica megatendencias y propone cómo las nuevas tecnologías podrían abordar desafíos sociales a largo plazo.
+Competencia 5.3. Usar creativamente las tecnologías digitales
+F1: Un niño usa una aplicación para crear un dibujo colorido en su tableta.
+F2: Un estudiante usa un editor de presentaciones para crear diapositivas con diseños originales para su proyecto.
+I3: Un fotógrafo utiliza software de edición para transformar una foto ordinaria en una obra de arte.
+I4: Un músico utiliza software de producción musical para componer y grabar su propia música.
+A5: Un artista digital crea una instalación interactiva utilizando sensores y programación para responder al movimiento del público.
+A6: Un educador diseña un juego de realidad virtual para enseñar conceptos complejos de ciencia de una manera inmersiva y divertida.
+AE7: Un arquitecto diseña un edificio utilizando herramientas de modelado 3D avanzadas y simulación para optimizar la sostenibilidad y la estética.
+AE8: Un científico desarrolla un nuevo método de visualización de datos en 3D que permite descubrir patrones ocultos en conjuntos de datos masivos.
+Competencia 5.4. Identificar brechas de competencia digital
+F1: Un niño sabe que sus padres pueden ayudarle a aprender a usar un nuevo juego en el ordenador.
+F2: Un estudiante reconoce que necesita ayuda para hacer una presentación más atractiva.
+I3: Un adulto se da cuenta de que necesita mejorar sus habilidades en hojas de cálculo para su trabajo y busca tutoriales en línea.
+I4: Un profesional asiste a un taller sobre seguridad cibernética para actualizar sus conocimientos y protegerse mejor en línea.
+A5: Un gerente de equipo evalúa las habilidades digitales de sus empleados e identifica áreas donde se necesita capacitación adicional.
+A6: Un consultor de formación diseña un programa de desarrollo profesional para una empresa, adaptándolo a las necesidades específicas de las brechas de competencia digital identificadas.
+AE7: Un responsable político diseña una estrategia nacional para abordar la brecha digital en la fuerza laboral, incluyendo iniciativas de recualificación y mejora de habilidades.
+AE8: Un investigador en educación digital propone un nuevo marco para la evaluación de la competencia digital que tenga en cuenta las necesidades de aprendizaje a lo largo de toda la vida y la rápida evolución tecnológica.
